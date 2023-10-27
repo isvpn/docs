@@ -1,4 +1,4 @@
-# ⚙ isVPN
+# ⚙ nd3 VPN
 
 {% hint style="info" %}
 **Telegram:** [https://t.me/group\_isvpn](https://t.me/group\_isvpn)
@@ -32,14 +32,14 @@ Here are a couple of example overviews from products with really great docs:
 
 We've put together some helpful guides for you to get setup with our product quickly and easily.
 
-{% content-ref url="install/nachat-ustanovku/" %}
-[nachat-ustanovku](install/nachat-ustanovku/)
+{% content-ref url="install/nachat-ustanovku.md" %}
+[nachat-ustanovku.md](install/nachat-ustanovku.md)
 {% endcontent-ref %}
 
-{% content-ref url="install/nachat-ustanovku/setting-permissions.md" %}
-[setting-permissions.md](install/nachat-ustanovku/setting-permissions.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="install/nachat-ustanovku/inviting-members.md" %}
-[inviting-members.md](install/nachat-ustanovku/inviting-members.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}

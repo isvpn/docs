@@ -1,6 +1,6 @@
 # Table of contents
 
-* [⚙ isVPN](README.md)
+* [⚙ nd3 VPN](README.md)
 
 ## Overview
 
@@ -14,12 +14,10 @@
 
 ## ⚙ УСТАНОВКА <a href="#install" id="install"></a>
 
-* [🛠 Начать установку](install/nachat-ustanovku/README.md)
-  * [📝 Setting permissions](install/nachat-ustanovku/setting-permissions.md)
-  * [🧑 Inviting Members](install/nachat-ustanovku/inviting-members.md)
+* [🛠 Начать установку](install/nachat-ustanovku.md)
 * [💻 Windows](install/windows/README.md)
   * [V2rayN (рекомендуется)](install/windows/v2rayn-rekomenduetsya.md)
-* [Page](install/page.md)
+* [macOS](install/macos.md)
 
 ## Use Cases
 
