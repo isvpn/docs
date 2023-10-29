@@ -12,7 +12,7 @@ layout:
     visible: false
 ---
 
-# Streisand
+# v2rayNG
 
 {% hint style="info" %}
 Ссылка на приложение: [https://apps.apple.com/ru/app/streisand/id6450534064](https://apps.apple.com/ru/app/streisand/id6450534064)

@@ -17,9 +17,8 @@
 * [🛠 Начать установку](install/nachat-ustanovku.md)
 * [🍏 iOS](install/ios/README.md)
   * [Streisand](install/ios/streisand.md)
-* [💻 Windows](install/windows/README.md)
-  * [V2rayN (рекомендуется)](install/windows/v2rayn-rekomenduetsya.md)
-* [macOS](install/macos.md)
+* [📱 Android](install/android/README.md)
+  * [v2rayNG](install/android/v2rayng.md)
 
 ## Use Cases
 
