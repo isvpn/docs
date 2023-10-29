@@ -1,7 +1,7 @@
 # ⚙ nd3 VPN
 
 {% hint style="info" %}
-**Telegram:** [https://t.me/group\_isvpn](https://t.me/group\_isvpn)
+**Telegram:** [https://t.me/nd3vpn](https://t.me/nd3vpn)
 {% endhint %}
 
 ## Overview
