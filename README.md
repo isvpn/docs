@@ -12,7 +12,7 @@ layout:
     visible: false
 ---
 
-# ⚙ nd3 VPN
+# nd3 VPN
 
 {% hint style="info" %}
 Telegram канал: [https://t.me/nd3vpn](https://t.me/nd3vpn)
