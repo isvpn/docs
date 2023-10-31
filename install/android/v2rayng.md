@@ -15,7 +15,7 @@ layout:
 # v2rayNG
 
 {% hint style="info" %}
-Ссылка на приложение: [https://apps.apple.com/ru/app/streisand/id6450534064](https://apps.apple.com/ru/app/streisand/id6450534064)
+Ссылка на приложение: [https://play.google.com/store/apps/details?id=com.v2ray.ang](https://play.google.com/store/apps/details?id=com.v2ray.ang\&hl=ru)
 {% endhint %}
 
 ## Инструкция <a href="#tutorial" id="tutorial"></a>
@@ -26,23 +26,28 @@ layout:
 
 
 
-### Откройте приложение Streisand
+### Откройте приложение v2rayNG
 
 1. Нажмите на `+`.
-2. В выплывающем меню нажмите `Добавить из буфера`.
-3. В появившемся меню нажмите `Разрешить вставку`.
+2. В выплывающем меню нажмите `Импорт профиля из буфера обмена`.
+3. Нажмите на три точки.
+4. В выплывающем меню нажмите `Обновить подписку`.
 
-<div>
+<div data-full-width="false">
 
-<figure><img src="../../.gitbook/assets/1 (2).png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/2 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2_1.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/3 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2_2.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/2_3.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/2_4.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -51,12 +56,18 @@ layout:
 ### Включение VPN
 
 1. Выберите локацию.
-2. Нажмите `Включить`.
+2. Нажмите на `круглую кнопку с буквой V`.
 
-<figure><img src="../../.gitbook/assets/1_1.png" alt="" width="375"><figcaption></figcaption></figure>
+<div>
 
+<figure><img src="../../.gitbook/assets/2_1_1.png" alt=""><figcaption></figcaption></figure>
 
+ 
+
+<figure><img src="../../.gitbook/assets/2_1_2.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ## Видео-инструкция
 
-{% embed url="https://vk.com/video-223019241_456239017" %}
+{% embed url="https://vk.com/video-223019241_456239018" %}
