@@ -1,6 +1,7 @@
 # Table of contents
 
 * [nd3 VPN](README.md)
+* [Пользовательское соглашение](polzovatelskoe-soglashenie.md)
 
 ## ⚙ УСТАНОВКА <a href="#install" id="install"></a>
 
