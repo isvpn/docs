@@ -16,7 +16,13 @@ layout:
 
 {% hint style="info" %}
 Ссылка на приложение: [https://play.google.com/store/apps/details?id=com.v2ray.ang](https://play.google.com/store/apps/details?id=com.v2ray.ang\&hl=ru)
+
+Ссылка на apk: [https://github.com/2dust/v2rayNG/releases/download/1.8.9/v2rayNG\_1.8.9.apk](https://github.com/2dust/v2rayNG/releases/download/1.8.9/v2rayNG\_1.8.9.apk)
 {% endhint %}
+
+## Видео-инструкция
+
+{% embed url="https://vk.com/video-223019241_456239018" %}
 
 ## Инструкция <a href="#tutorial" id="tutorial"></a>
 
@@ -67,7 +73,3 @@ layout:
 <figure><img src="../../.gitbook/assets/2_1_2.png" alt=""><figcaption></figcaption></figure>
 
 </div>
-
-## Видео-инструкция
-
-{% embed url="https://vk.com/video-223019241_456239018" %}
