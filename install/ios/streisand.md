@@ -18,6 +18,10 @@ layout:
 Ссылка на приложение: [https://apps.apple.com/ru/app/streisand/id6450534064](https://apps.apple.com/ru/app/streisand/id6450534064)
 {% endhint %}
 
+## Видео-инструкция
+
+{% embed url="https://vk.com/video-223019241_456239017" %}
+
 ## Инструкция <a href="#tutorial" id="tutorial"></a>
 
 ### Скопируйте ссылку на лицензию из сообщения
@@ -55,8 +59,3 @@ layout:
 
 <figure><img src="../../.gitbook/assets/1_1.png" alt="" width="375"><figcaption></figcaption></figure>
 
-
-
-## Видео-инструкция
-
-{% embed url="https://vk.com/video-223019241_456239017" %}
